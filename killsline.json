@@ -1,0 +1,162 @@
+[
+    {
+        "puuid": "player1-unique-id",
+        "username": "PlayerOne",
+        "maps": {
+            "Ascent": 0,
+            "Bind": 0,
+            "Haven": 0,
+            "Split": 0,
+            "Icebox": 0,
+            "Breeze": 0,
+            "Fracture": 0,
+            "Pearl": 0,
+            "Lotus": 0,
+            "Sunset": 0
+        }
+    },
+    {
+        "puuid": "player2-unique-id",
+        "username": "PlayerTwo",
+        "maps": {
+            "Ascent": 0,
+            "Bind": 0,
+            "Haven": 0,
+            "Split": 0,
+            "Icebox": 0,
+            "Breeze": 0,
+            "Fracture": 0,
+            "Pearl": 0,
+            "Lotus": 0,
+            "Sunset": 0
+        }
+    },
+    {
+        "puuid": "player3-unique-id",
+        "username": "PlayerThree",
+        "maps": {
+            "Ascent": 0,
+            "Bind": 0,
+            "Haven": 0,
+            "Split": 0,
+            "Icebox": 0,
+            "Breeze": 0,
+            "Fracture": 0,
+            "Pearl": 0,
+            "Lotus": 0,
+            "Sunset": 0
+        }
+    },
+    {
+        "puuid": "player4-unique-id",
+        "username": "PlayerFour",
+        "maps": {
+            "Ascent": 0,
+            "Bind": 0,
+            "Haven": 0,
+            "Split": 0,
+            "Icebox": 0,
+            "Breeze": 0,
+            "Fracture": 0,
+            "Pearl": 0,
+            "Lotus": 0,
+            "Sunset": 0
+        }
+    },
+    {
+        "puuid": "player5-unique-id",
+        "username": "PlayerFive",
+        "maps": {
+            "Ascent": 0,
+            "Bind": 0,
+            "Haven": 0,
+            "Split": 0,
+            "Icebox": 0,
+            "Breeze": 0,
+            "Fracture": 0,
+            "Pearl": 0,
+            "Lotus": 0,
+            "Sunset": 0
+        }
+    },
+    {
+        "puuid": "player6-unique-id",
+        "username": "PlayerSix",
+        "maps": {
+            "Ascent": 0,
+            "Bind": 0,
+            "Haven": 0,
+            "Split": 0,
+            "Icebox": 0,
+            "Breeze": 0,
+            "Fracture": 0,
+            "Pearl": 0,
+            "Lotus": 0,
+            "Sunset": 0
+        }
+    },
+    {
+        "puuid": "player7-unique-id",
+        "username": "PlayerSeven",
+        "maps": {
+            "Ascent": 0,
+            "Bind": 0,
+            "Haven": 0,
+            "Split": 0,
+            "Icebox": 0,
+            "Breeze": 0,
+            "Fracture": 0,
+            "Pearl": 0,
+            "Lotus": 0,
+            "Sunset": 0
+        }
+    },
+    {
+        "puuid": "player8-unique-id",
+        "username": "PlayerEight",
+        "maps": {
+            "Ascent": 0,
+            "Bind": 0,
+            "Haven": 0,
+            "Split": 0,
+            "Icebox": 0,
+            "Breeze": 0,
+            "Fracture": 0,
+            "Pearl": 0,
+            "Lotus": 0,
+            "Sunset": 0
+        }
+    },
+    {
+        "puuid": "player9-unique-id",
+        "username": "PlayerNine",
+        "maps": {
+            "Ascent": 0,
+            "Bind": 0,
+            "Haven": 0,
+            "Split": 0,
+            "Icebox": 0,
+            "Breeze": 0,
+            "Fracture": 0,
+            "Pearl": 0,
+            "Lotus": 0,
+            "Sunset": 0
+        }
+    },
+    {
+        "puuid": "player10-unique-id",
+        "username": "PlayerTen",
+        "maps": {
+            "Ascent": 0,
+            "Bind": 0,
+            "Haven": 0,
+            "Split": 0,
+            "Icebox": 0,
+            "Breeze": 0,
+            "Fracture": 0,
+            "Pearl": 0,
+            "Lotus": 0,
+            "Sunset": 0
+        }
+    }
+]
