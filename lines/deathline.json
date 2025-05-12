@@ -2,35 +2,132 @@
     "players": [
         {
             "puuid": "abcf0edc-25d4-4a9c-8f15-2b1746dbe136",
-            "name": "GMT rayanielmao"
+            "name": "GMT rayanielmao",
+            "maps": {
+                "Ascent": 0,
+                "Bind": 0,
+                "Haven": 0,
+                "Split": 0,
+                "Icebox": 0,
+                "Breeze": 0,
+                "Fracture": 0,
+                "Pearl": 0,
+                "Lotus": 0,
+                "Sunset": 0
+            }
         },
         {
             "puuid": "a6fb72a6-65cd-56c3-8e3f-83563fba8f8b",
-            "name": "yuno"
+            "name": "yuno",
+            "maps": {
+                "Ascent": 0,
+                "Bind": 0,
+                "Haven": 0,
+                "Split": 0,
+                "Icebox": 0,
+                "Breeze": 0,
+                "Fracture": 0,
+                "Pearl": 0,
+                "Lotus": 0,
+                "Sunset": 0
+            }
         },
         {
             "puuid": "454738e4-9454-5db1-81b1-e10edd2d06db",
-            "name": "loopy"
+            "name": "loopy",
+            "maps": {
+                "Ascent": 0,
+                "Bind": 0,
+                "Haven": 0,
+                "Split": 0,
+                "Icebox": 0,
+                "Breeze": 0,
+                "Fracture": 0,
+                "Pearl": 0,
+                "Lotus": 0,
+                "Sunset": 0
+            }
         },
         {
             "puuid": "60b7a36c-4143-55a1-a980-332e041e68c4",
-            "name": "BigFatMonsta"
+            "name": "BigFatMonsta",
+            "maps": {
+                "Ascent": 0,
+                "Bind": 0,
+                "Haven": 0,
+                "Split": 0,
+                "Icebox": 0,
+                "Breeze": 0,
+                "Fracture": 0,
+                "Pearl": 0,
+                "Lotus": 0,
+                "Sunset": 0
+            }
         },
         {
             "puuid": "d684986c-93f3-5e26-8cfb-dc95eebf06d1",
-            "name": "pachi"
+            "name": "pachi",
+            "maps": {
+                "Ascent": 0,
+                "Bind": 0,
+                "Haven": 0,
+                "Split": 0,
+                "Icebox": 0,
+                "Breeze": 0,
+                "Fracture": 0,
+                "Pearl": 0,
+                "Lotus": 0,
+                "Sunset": 0
+            }
         },
         {
             "puuid": "537932e8-0948-5129-a34a-fe9815fc5023",
-            "name": "crona"
+            "name": "crona",
+            "maps": {
+                "Ascent": 0,
+                "Bind": 0,
+                "Haven": 0,
+                "Split": 0,
+                "Icebox": 0,
+                "Breeze": 0,
+                "Fracture": 0,
+                "Pearl": 0,
+                "Lotus": 0,
+                "Sunset": 0
+            }
         },
         {
             "puuid": "0c3cf9f3-af81-5bf5-9aab-4489db170244",
-            "name": "Wendigo"
+            "name": "Wendigo",
+            "maps": {
+                "Ascent": 0,
+                "Bind": 0,
+                "Haven": 0,
+                "Split": 0,
+                "Icebox": 0,
+                "Breeze": 0,
+                "Fracture": 0,
+                "Pearl": 0,
+                "Lotus": 0,
+                "Sunset": 0
+            }
         },
         {
             "puuid": "5028effb-47d9-5e3a-8cbd-1b7e452c8390",
-            "name": "Bubbashrimpin"
+            "name": "Bubbashrimpin",
+            "maps": {
+                "Ascent": 0,
+                "Bind": 0,
+                "Haven": 0,
+                "Split": 0,
+                "Icebox": 0,
+                "Breeze": 0,
+                "Fracture": 0,
+                "Pearl": 0,
+                "Lotus": 0,
+                "Sunset": 0
+            }
         }
     ]
+
 }
